@@ -1,0 +1,5 @@
+{
+  "name": "Fractional Stock Investor",
+  "description": "An application that helps investors maximize returns with a limited budget by calculating optimal fractional stock investments using a fractional knapsack algorithm, enhanced with AI-powered insights.",
+  "requestFramePermissions": []
+}
